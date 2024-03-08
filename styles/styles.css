@@ -73,7 +73,7 @@ nav .navigation ul li a:hover {
 }
 
 #home {
-  background-image: linear-gradient(rgba(255, 0, 0, 0.116), rgba(255, 217, 0, 0.123)), url("/images/hog.jpg");
+  background-image: linear-gradient(rgba(255, 0, 0, 0.116), rgba(255, 217, 0, 0.123)), url("/universityTemplate/images/hog.jpg");
   width: 100%;
   height: 100vh;
   background-size: cover;
@@ -203,7 +203,7 @@ nav .navigation ul li a:hover {
 
 #registration {
   padding: 6vw 8vw 6vw 8vw;
-  background-image: linear-gradient(rgba(77, 248, 182, 0.151), rgba(81, 91, 233, 0.295)), url("/images/registration.jpg");
+  background-image: linear-gradient(rgba(77, 248, 182, 0.151), rgba(81, 91, 233, 0.295)), url("/universityTemplate//images/registration.jpg");
   width: 100%;
   height: 100%;
   background-size: cover;
